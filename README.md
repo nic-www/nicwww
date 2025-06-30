@@ -23,7 +23,7 @@
 </details>
 
 <!-- Links -->
-[![Discord](https://img.shields.io/badge/Discord-nikizih-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/436705306932805644)
+[![Discord](https://img.shields.io/badge/Discord-nikizinh-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/436705306932805644)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nik_f4/)
 
 <!-- GithubStats -->
